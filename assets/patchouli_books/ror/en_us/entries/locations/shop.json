@@ -1,0 +1,15 @@
+{
+  "name": "Shop",
+  "icon": "ror:cyan_neon_onyx_block",
+  "category": "ror:locations",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:neon_trader_workstation",
+      "title": "Going shopping",
+      "text": "Shops in the Neon City contain many different blocks on the isles, you can also trade with the Neon Traders there for many different items."
+    }
+  ]
+}

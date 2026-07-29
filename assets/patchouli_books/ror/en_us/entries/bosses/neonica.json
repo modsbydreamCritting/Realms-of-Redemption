@@ -1,0 +1,20 @@
+{
+  "name": "Neonica",
+  "icon": "ror:gold_neonica_statue",
+  "category": "ror:bosses",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:neonica",
+      "scale": 1,
+      "name": "Neonica",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 1000, Damage: 9, Tips: Bring any prism to reflect the lasers at her force field until she is below 80% health, then be very alert for Neon Vortices which will start to spawn, as you will lose the fight if you can't destroy them in time"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Corrundum Golem",
+  "icon": "ror:neon_city",
+  "category": "ror:mobs",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:corrundum_golem",
+      "scale": 1,
+      "name": "Corrundum Golem",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 90, Damage: 8, notable drops: Neon Prism (10%), chance can be raised with Looting, found deep underground in Prismacon."
+    }
+  ]
+}

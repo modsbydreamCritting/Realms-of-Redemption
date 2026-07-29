@@ -1,0 +1,20 @@
+{
+  "name": "Moon Dungeon Guard",
+  "icon": "ror:moon_coin",
+  "category": "ror:mobs",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:moon_dungeon_guard",
+      "scale": 1,
+      "name": "Moon Dungeon Guard",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 100, Damage: 9, notable drops: Rusty Moon Coin, found in the Moon Dungeon in Cyberland."
+    }
+  ]
+}

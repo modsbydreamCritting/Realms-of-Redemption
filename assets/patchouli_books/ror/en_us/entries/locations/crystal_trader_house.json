@@ -1,0 +1,13 @@
+{
+  "name": "Crystal Trader House",
+  "icon": "ror:crystal_trader_workstation",
+  "category": "ror:locations",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Search for a small house in Prismacon"
+    }
+  ]
+}

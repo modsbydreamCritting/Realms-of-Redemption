@@ -1,0 +1,13 @@
+{
+  "name": "Cyberland",
+  "icon": "ror:cyberland",
+  "category": "ror:dimensions",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Craft a Blue Prism and use it on a frame of Lapis Blocks to enter this land of blue robots, blue grass, blue everything! Well not the moons, those are purple and pink, obviously."
+    }
+  ]
+}

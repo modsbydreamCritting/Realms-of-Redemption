@@ -1,0 +1,20 @@
+{
+  "name": "Neon Resident",
+  "icon": "ror:neon_coin",
+  "category": "ror:mobs",
+  "sortnum": 11,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:neon_resident",
+      "scale": 1,
+      "name": "Neon Resident",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 50, Damage: 6, can be interacted and traded with, found all over the place in the Neon City."
+    }
+  ]
+}

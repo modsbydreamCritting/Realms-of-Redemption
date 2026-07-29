@@ -1,0 +1,13 @@
+{
+  "name": "Silence / Clumsyness",
+  "icon": "minecraft:brewing_stand",
+  "category": "ror:potions_and_effects",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Modifies Stealth attribute by 10% per level"
+    }
+  ]
+}

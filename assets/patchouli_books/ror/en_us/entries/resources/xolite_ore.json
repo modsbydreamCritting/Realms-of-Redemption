@@ -1,0 +1,21 @@
+{
+  "name": "Xolite Ore",
+  "icon": "ror:xolite_ore",
+  "category": "ror:resources",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:xolite_ore",
+      "title": "Xolite Ore",
+      "text": "Dimension: Prismacon, Min Y: -63, Max Y: -16"
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:xolite",
+      "title": "Xolite",
+      "text": "Bring Uncut Xolite to a Gem Cutting Station (see relavent guide book entry)"
+    }
+  ]
+}

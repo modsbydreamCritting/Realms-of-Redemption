@@ -1,0 +1,39 @@
+{
+  "name": "Prismite Heart",
+  "icon": "ror:prismite_heart",
+  "category": "ror:boss_summoners",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:prismite_ingot",
+      "title": "Prismite Ingots",
+      "text": "Mine up White Sapphire and various colors of Crystal Blocks in Prismacon to make 6 of these."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:xolite",
+      "title": "Xolite",
+      "text": "Mine Xolite in the Corrundum layer, then cut it at a Gem Cutting Station from Cyberland."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:sapphire_heart",
+      "title": "Sapphire Heart",
+      "text": "Most Prismacon mobs can drop this, with more powerful mobs having a higher chance."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:rubellite_heart",
+      "title": "Rubellite Heart",
+      "text": "Found embedded in a block in a castle, requires a Netherite Pickaxe or better to mine."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:prismite_heart",
+      "title": "Prismite Heart",
+      "text": "Craft the ingredients together, then go to a Corrundodile Arena to summon the boss."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Blood Canister",
+  "icon": "ror:blood_canister",
+  "category": "ror:boss_summoners",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:blood_tank",
+      "title": "Blood Tank",
+      "text": "Find a Blood Tank in The Factory, repair the Broken Factory Control Panel with a wrench, and use an Empty Canister on the valve below."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:redstone_circuit",
+      "title": "Redstone Circuit",
+      "text": "Mine 4 Industrial Metal Terminals in the Weather Factory structure, once you find the staircase to get up there, then craft a Redstone Assembly with the 4 Redstone Circuits you get"
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:pegasus_device",
+      "title": "Pegasus Device",
+      "text": "Use the Redstone Asssembly on the Pegasus Device in the Main Theater Room in the Rainbow Production section of the Weather Factory structure"
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:blood_canister",
+      "title": "Blood Canister",
+      "text": "Take the Blood Canister to the Pegasus Device, then you can summon the boss."
+    }
+  ]
+}

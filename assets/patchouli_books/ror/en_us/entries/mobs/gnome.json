@@ -1,0 +1,20 @@
+{
+  "name": "Gnome",
+  "icon": "minecraft:fishing_rod",
+  "category": "ror:mobs",
+  "sortnum": 8,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:gnome",
+      "scale": 0.8,
+      "name": "Gnome",
+      "offset": 0.6
+    },
+	{
+      "type": "text",
+      "text": "Health: 35, Damage: 6, notable drops: Enchanted Fishing Rod (2%) can be raised with Looting, found commonly in The Flowerbed"
+    }
+  ]
+}

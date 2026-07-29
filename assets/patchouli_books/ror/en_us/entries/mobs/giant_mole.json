@@ -1,0 +1,20 @@
+{
+  "name": "Giant Mole",
+  "icon": "ror:mole_nose",
+  "category": "ror:mobs",
+  "sortnum": 9,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:giant_mole",
+      "scale": 0.9,
+      "name": "Giant Mole",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 90, Damage: 6, notable drops: Mole Nose (5%) can be raised with Looting, found occasionally underground in The Flowerbed."
+    }
+  ]
+}

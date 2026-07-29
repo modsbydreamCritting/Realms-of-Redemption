@@ -1,0 +1,20 @@
+{
+  "name": "Googloid",
+  "icon": "ror:googloid_eye",
+  "category": "ror:mobs",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:googloid",
+      "scale": 0.8,
+      "name": "Googloid",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 70, Damage: 7, notable drops: Googloid Eye (30%), found on the moons of Cyberland."
+    }
+  ]
+}

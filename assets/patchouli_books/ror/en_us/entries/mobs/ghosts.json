@@ -1,0 +1,42 @@
+{
+  "name": "Ghosts",
+  "icon": "ror:ectoplasm",
+  "category": "ror:mobs",
+  "sortnum": 10,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:ghost",
+      "scale": 1,
+      "name": "Ghost",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 50, Damage: 2 with +1 fear per nearby Ghost when attacked or attacking, notable drops: Ectoplasm (50% for 0 - 2), found occasionally in the Factory and Flowerbed."
+    },
+	{
+      "type": "entity",
+      "entity": "ror:googloid_ghost",
+      "scale": 1,
+      "name": "Googloid Ghost",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 80, Damage: 3 with +1 fear per nearby Ghost when attacked or attacking, notable drops: Ectoplasm (50% for 0 - 3), found occasionally on the moons of Cyberland."
+    },
+	{
+      "type": "entity",
+      "entity": "ror:ghost_angel",
+      "scale": 1,
+      "name": "Ghost Angel",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 90, Damage: 4 with +1 fear per nearby Ghost when attacked or attacking, notable drops: Ectoplasm (1 - 4), French Horn (3%), chance can be raised with Looting, found rarely in the Factory and Flowerbed."
+    }
+  ]
+}

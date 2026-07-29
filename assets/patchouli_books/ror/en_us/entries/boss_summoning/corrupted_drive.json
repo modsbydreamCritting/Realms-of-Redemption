@@ -1,0 +1,27 @@
+{
+  "name": "Corrupted Drive",
+  "icon": "ror:corrupted_drive",
+  "category": "ror:boss_summoners",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:server_block",
+      "title": "Finding it",
+      "text": "Look for a tower with Server Blocks in the top room in Cyberland, find the Corrupted Server Block (there may be more than one) and mine it."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:charged_battery",
+      "title": "Battery Obtaining",
+      "text": "Slay mobs or mine crates until you obtain a battery, then charge it by using it on a Cowbot."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:green_tech_block",
+      "title": "Radar Tower",
+      "text": "Find the Radar Tower, charge the terminal with the battery, then summon the boss!"
+    }
+  ]
+}

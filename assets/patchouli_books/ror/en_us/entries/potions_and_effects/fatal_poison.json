@@ -1,0 +1,13 @@
+{
+  "name": "Fatal Poison",
+  "icon": "minecraft:brewing_stand",
+  "category": "ror:potions_and_effects",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Gives an equivilant Poison effect when applied, kills the entity if health reaches 1 while effect is active"
+    }
+  ]
+}

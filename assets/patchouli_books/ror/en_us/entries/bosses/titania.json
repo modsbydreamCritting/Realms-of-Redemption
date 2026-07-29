@@ -1,0 +1,20 @@
+{
+  "name": "Titania",
+  "icon": "ror:gold_titania_statue",
+  "category": "ror:bosses",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:titania",
+      "scale": 0.6,
+      "name": "Titania",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 1000, Damage: Varies, Tips: Milk may be very useful to counter the various debuff spells, Neonica is able to use spells on you without a direct line of sight as well. She uh, doesn't vibrate, that's just the book rendering animated mobs strangely."
+    }
+  ]
+}

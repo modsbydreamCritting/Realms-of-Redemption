@@ -1,0 +1,33 @@
+{
+  "name": "Flowerbed Dungeon",
+  "icon": "ror:gold_crate",
+  "category": "ror:locations",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "minecraft:mossy_stone_bricks",
+      "title": "Finding it",
+      "text": "Look for a small structure made of stone bricks in the Flowerbed."
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:crystal_ball",
+      "title": "Find the Crystal Ball",
+      "text": "Explore the dungeon and look for a room with a Crystal Ball."
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:wooden_crate",
+      "title": "Loot",
+      "text": "Wooden Crates can contain Assassin's Knives, Lutes and Lyres, powerful items."
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:gold_crate",
+      "title": "Gold Crates",
+      "text": "These are very rare, and contain Gold Mob Tokens, which can be traded in Prismacon for powerful weapons."
+    }
+  ]
+}

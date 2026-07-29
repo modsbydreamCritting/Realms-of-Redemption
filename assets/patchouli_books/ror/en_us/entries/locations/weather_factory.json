@@ -1,0 +1,31 @@
+{
+  "name": "Weather Factory",
+  "icon": "ror:painted_factory_warning_block",
+  "category": "ror:locations",
+  "sortnum": 9,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Search for a white staircase in The Factory, it may help to obtain a Weather Factory Map from an Industrial Metal Crate before this."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:toxic_sludge_tank",
+      "title": "Toxic Sludge",
+      "text": "Use a wrench on Broken Factory Control Panels you find and then use a Containment Box on the valve below to extract Toxic Sludge for use in ore processing"
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:spectra_tank",
+      "title": "Spectra",
+      "text": "Find the Main Theater Room of the factory then use a wrench on Broken Factory Control Panels you find and then use an Empty Canister on the valve below to extract Spectra for use in powerful equipment, the Enscorcellment Station and buying wedding clothes"
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:activated_pegasus_device",
+      "title": "Boss Fight",
+      "text": "Once you have found the Main Theater Room of the factory and repaired the Pegasus Device (see the Boss Summoners/Blood Canister entry) you can use a Blood Canister on the Activated Pegasus Device block on the ominous looking machine to summon the boss, Mox"
+    }
+]
+}

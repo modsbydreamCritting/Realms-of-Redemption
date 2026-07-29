@@ -1,0 +1,13 @@
+{
+  "name": "Marriage",
+  "icon": "minecraft:barrier",
+  "category": "ror:misc",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Removed feature - use 1.20.1 if you want to try it."
+    }
+  ]
+}

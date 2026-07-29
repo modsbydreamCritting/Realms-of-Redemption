@@ -1,0 +1,15 @@
+{
+  "name": "Daffodilium Ore",
+  "icon": "ror:daffodilium_ore",
+  "category": "ror:resources",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:daffodilium_ore",
+      "title": "Daffodilium Ore",
+      "text": "Dimension: Flowerbed, Min Y: -60, Max Y: 32"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hospital",
+  "icon": "minecraft:brewing_stand",
+  "category": "ror:locations",
+  "sortnum": 8,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "minecraft:brewing_stand",
+      "title": "Loot",
+      "text": "Hospitals in the Neon City can contain healing potions and crates"
+    }
+  ]
+}

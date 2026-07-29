@@ -1,0 +1,13 @@
+{
+  "name": "Flowerbed Trader House",
+  "icon": "minecraft:spruce_log",
+  "category": "ror:locations",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Search for a Village in the flowerbed, each one should have a house on stilts with the Flowerbed Trader inside."
+    }
+  ]
+}

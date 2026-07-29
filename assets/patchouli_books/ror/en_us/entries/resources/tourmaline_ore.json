@@ -1,0 +1,21 @@
+{
+  "name": "Tourmaline Ore",
+  "icon": "ror:tourmaline_ore",
+  "category": "ror:resources",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:tourmaline_ore",
+      "title": "Tourmaline Ore",
+      "text": "Dimension: Cyberland, Min Y: 0, Max Y: 56"
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:tourmaline",
+      "title": "Tourmaline",
+      "text": "Bring Uncut Tourmaline to a Gem Cutting Station (see relavent guide book entry)"
+    }
+  ]
+}

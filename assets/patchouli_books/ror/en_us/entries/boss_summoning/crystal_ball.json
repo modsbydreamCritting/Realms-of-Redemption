@@ -1,0 +1,15 @@
+{
+  "name": "Crystal Ball",
+  "icon": "ror:crystal_ball",
+  "category": "ror:boss_summoners",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:crystal_ball",
+      "title": "Crystal Ball",
+      "text": "Find the Flowerbed Dungeon and explore until you find the Crystal Ball."
+    }
+  ]
+}

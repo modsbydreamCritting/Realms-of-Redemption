@@ -1,0 +1,13 @@
+{
+  "name": "Crystalcopter Tower",
+  "icon": "ror:crystallizing_sword",
+  "category": "ror:locations",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Search for a crystal with White Crystal Brick pillars and spawners on top in Prismacon, the Crystalcopters here rarely drop Crystalline Swords"
+    }
+  ]
+}

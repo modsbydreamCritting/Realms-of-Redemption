@@ -1,0 +1,13 @@
+{
+  "name": "Robot Trader House",
+  "icon": "ror:robot_trader_workstation",
+  "category": "ror:locations",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Search for a short building on the underside of Cyberland"
+    }
+  ]
+}

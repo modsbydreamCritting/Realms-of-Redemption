@@ -1,0 +1,20 @@
+{
+  "name": "Prismkeeper",
+  "icon": "ror:dress_chestplate",
+  "category": "ror:mobs",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:prismkeeper",
+      "scale": 1,
+      "name": "Prismkeeper",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 60, Damage: 0, speak to this NPC if you want to marry Neonica or Mox, your wife-to-be will need to be nearby for parts of this (obviously), found occasionally wandering around Prismacon."
+    }
+  ]
+}

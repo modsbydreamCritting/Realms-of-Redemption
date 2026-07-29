@@ -1,0 +1,13 @@
+{
+  "name": "Magical Power",
+  "icon": "minecraft:enchanted_book",
+  "category": "ror:attributes",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Divides cooldown of magical equipment, increased by the Magic Boost effect, decreased by the Mana Drain effect."
+    }
+  ]
+}

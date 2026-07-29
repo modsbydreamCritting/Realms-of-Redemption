@@ -1,0 +1,13 @@
+{
+  "name": "Errors",
+  "icon": "minecraft:command_block",
+  "category": "ror:misc",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "If you find any bugs or errors in the mod, you can contact the mod author (dreamcritting) on Curseforge or discord. Please send a log/crash report if the game crashed, an explanation of what happened and a list of any additional mods you were using and I will try to help."
+    }
+  ]
+}

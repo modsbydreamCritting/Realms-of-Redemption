@@ -1,0 +1,13 @@
+{
+  "name": "Fear Resistance",
+  "icon": "minecraft:enchanted_book",
+  "category": "ror:attributes",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Reduces Fear inflicted by Ghost attacks, applied by the Bravery effect."
+    }
+  ]
+}

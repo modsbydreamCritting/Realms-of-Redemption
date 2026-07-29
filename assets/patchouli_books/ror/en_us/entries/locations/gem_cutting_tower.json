@@ -1,0 +1,19 @@
+{
+  "name": "Gem Cutting Tower",
+  "icon": "ror:gem_cutting_station",
+  "category": "ror:locations",
+  "sortnum": 10,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Search for large tower in Cyberland, climb to the top and you will find the Gem Cutting Station, Gem Cutting Head and a Piston."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:incomplete_gem_cutter",
+      "title": "Cutting Heads",
+      "text": "Craft the Gem Cutting Head into a Diamond, Tsavorite or Tourmaile Gem Cutting Head, use a gem on the station, and then use a piston or other pushing device to push the cutting head against the top of the block to cut the gem."
+    }
+]
+}

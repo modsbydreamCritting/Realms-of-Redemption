@@ -1,0 +1,19 @@
+{
+  "name": "The Factory",
+  "icon": "ror:the_factory",
+  "category": "ror:dimensions",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Use a Radioactive Prism on a frame of Blue Metal Blocks to make a portal to this dimension of endless factory machinery. Hope you like big dungeons, the one here is over 180 blocks long. Miniature horses not included."
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:the_factory",
+      "title": "Obtaining the prism",
+      "text": "Radioactive Prisms drop from Guardbots in Cyberland, the mob is rare so you may need to search around a bit to find one"
+    }
+  ]
+}

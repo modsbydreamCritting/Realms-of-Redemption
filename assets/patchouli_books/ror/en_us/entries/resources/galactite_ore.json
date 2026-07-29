@@ -1,0 +1,21 @@
+{
+  "name": "Galactite Ore",
+  "icon": "ror:galactite_ore",
+  "category": "ror:resources",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:galactite_ore",
+      "title": "Galactite Ore",
+      "text": "Dimension: Cyberland, Min Y: 0, Max Y: 64"
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:galactite_ingot",
+      "title": "Galactite Ingot",
+      "text": "Galactite Ore requires a Radiant Magnolite Drill or better pickaxe/drill to mine"
+    }
+  ]
+}

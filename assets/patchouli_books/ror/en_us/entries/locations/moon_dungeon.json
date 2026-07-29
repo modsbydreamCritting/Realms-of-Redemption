@@ -1,0 +1,33 @@
+{
+  "name": "Moon Dungeon",
+  "icon": "ror:moon_stone_bricks",
+  "category": "ror:locations",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:googloid_eye",
+      "title": "Googloid Eye",
+      "text": "Slay a Googloid (found on the little pink moons in Cyberland) and obtain a Googloid Eye."
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:retinal_scanner",
+      "title": "Getting in",
+      "text": "Use the eye on the retinal scanner block at the top of a very big moon."
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:moon_stone_bricks",
+      "title": "Be careful",
+      "text": "Mobs in the dungeon are strong, and the deeper you go the further you will have to go to escape. Many chests and spawners can be found."
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:moon_coin",
+      "title": "Loot",
+      "text": "The most important item to get here is Rusty Moon Coins and Rust Remover, the coins drop from Moon Dungeon Guards and the Rust Remover is found in the chests."
+    }
+  ]
+}

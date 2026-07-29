@@ -1,0 +1,13 @@
+{
+  "name": "Fairydust",
+  "icon": "ror:fairydust",
+  "category": "ror:resources",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Common drop from Fairies, used to brew Magic Boost potions, can be brewed with Bravery II potions to get Bravery III, and functions as bonemeal"
+    }
+  ]
+}

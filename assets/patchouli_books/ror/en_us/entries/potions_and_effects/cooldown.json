@@ -1,0 +1,13 @@
+{
+  "name": "Cooldown",
+  "icon": "minecraft:brewing_stand",
+  "category": "ror:potions_and_effects",
+  "sortnum": 13,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "No default effects - may be used by mods to deny item/ability usage while applied"
+    }
+  ]
+}

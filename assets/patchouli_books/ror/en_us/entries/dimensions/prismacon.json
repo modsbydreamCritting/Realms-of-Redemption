@@ -1,0 +1,13 @@
+{
+  "name": "Prismacon",
+  "icon": "ror:prismacon",
+  "category": "ror:dimensions",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Use an Enchanted Prism on a frame of Chisled Quartz to make a portal to this dimension of colorful crystals."
+    }
+  ]
+}

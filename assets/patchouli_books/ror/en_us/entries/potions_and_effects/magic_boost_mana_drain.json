@@ -1,0 +1,13 @@
+{
+  "name": "Magic Boost / Mana Drain",
+  "icon": "minecraft:brewing_stand",
+  "category": "ror:potions_and_effects",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Modifies Magical Power attribute by 5% per level"
+    }
+  ]
+}

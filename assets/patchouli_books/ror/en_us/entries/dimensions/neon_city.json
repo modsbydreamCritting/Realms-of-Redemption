@@ -1,0 +1,19 @@
+{
+  "name": "Neon City",
+  "icon": "ror:neon_city",
+  "category": "ror:dimensions",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Use a Neon Prism on a frame of Onyx Blocks to make a portal to this city dimension. It is not recommended to have high render distance due to high structure count. Some shaders look *very* nice here but you may need to tweak settings if they try to show the overworld sky"
+    },
+	{
+      "type": "spotlight",
+      "item": "ror:neon_city",
+      "title": "Obtaining the prism",
+      "text": "Neon Prisms are a 20% drop chance from Corrundum Golems in the caves of Prismacon, although the looting enchantment will raise this chance"
+    }
+  ]
+}

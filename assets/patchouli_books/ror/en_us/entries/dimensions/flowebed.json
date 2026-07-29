@@ -1,0 +1,13 @@
+{
+  "name": "Flowerbed",
+  "icon": "ror:flowerbed",
+  "category": "ror:dimensions",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Use a Floral Prism on a frame of Moss to make a portal to this dimension of fairies, gnomes and giant flowers. Just keep away from the moles."
+    }
+  ]
+}

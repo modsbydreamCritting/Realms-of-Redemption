@@ -1,0 +1,20 @@
+{
+  "name": "Undercopter",
+  "icon": "ror:the_factory",
+  "category": "ror:mobs",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:undercopter",
+      "scale": 1,
+      "name": "Undercopter",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 80, Damage: 8, notable drops: Levitation spell (3%), Gravity Wand (3%), found in the houses below Cyberland."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tsavorite Ore",
+  "icon": "ror:tsavorite_ore",
+  "category": "ror:resources",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "ror:tsavorite_ore",
+      "title": "Tsavorite Ore",
+      "text": "Dimension: Cyberland, Min Y: 0, Max Y: 64"
+    },
+    {
+      "type": "spotlight",
+      "item": "ror:tsavorite",
+      "title": "Tsavorite",
+      "text": "Bring Uncut Tsavorite to a Gem Cutting Station (see relavent guide book entry)"
+    }
+  ]
+}

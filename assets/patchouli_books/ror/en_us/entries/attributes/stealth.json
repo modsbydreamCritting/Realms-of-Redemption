@@ -1,0 +1,13 @@
+{
+  "name": "Stealth",
+  "icon": "minecraft:enchanted_book",
+  "category": "ror:attributes",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Multiplies damage dealt on stealth strikes from stealth equipment, increased by the Silence effect, decreased by the Clumsyness effect."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Crystalcopter",
+  "icon": "ror:crystallizing_sword",
+  "category": "ror:mobs",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:crystalcopter",
+      "scale": 1,
+      "name": "Crystalcopter",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 30, Damage: 6, notable drops: Crystallizing Sword (3%), chance can be raised with Looting, found in Crystalcopter Towers in Prismacon."
+    }
+  ]
+}

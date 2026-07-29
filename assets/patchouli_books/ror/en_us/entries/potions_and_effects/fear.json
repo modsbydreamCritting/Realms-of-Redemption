@@ -1,0 +1,13 @@
+{
+  "name": "Fear",
+  "icon": "minecraft:brewing_stand",
+  "category": "ror:potions_and_effects",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "-1 max health per level."
+    }
+  ]
+}

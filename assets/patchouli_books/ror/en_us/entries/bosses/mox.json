@@ -1,0 +1,20 @@
+{
+  "name": "Mox",
+  "icon": "ror:gold_mox_statue",
+  "category": "ror:bosses",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:mox",
+      "scale": 1,
+      "name": "Mox",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 1000, Damage: 6 + 1 Fear per nearby Ghost when attacked or attacking, Tips: Bravery potions may be useful. Entity doesn't render properly inside the book, it's meant to glow lol."
+    }
+  ]
+}

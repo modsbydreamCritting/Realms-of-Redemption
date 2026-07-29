@@ -1,0 +1,20 @@
+{
+  "name": "Corrundodile",
+  "icon": "ror:gold_corrundodile_statue",
+  "category": "ror:bosses",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:corrundodile",
+      "scale": 0.6,
+      "name": "Corrundodile",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 800, Damage: 8, Tips: dodge the spikes."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Killbot",
+  "icon": "ror:gold_killbot_statue",
+  "category": "ror:bosses",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:killbot",
+      "scale": 1,
+      "name": "Killbot",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 750, Damage: 8, Tips: be careful not to get knocked into the void or other mobs."
+    }
+  ]
+}

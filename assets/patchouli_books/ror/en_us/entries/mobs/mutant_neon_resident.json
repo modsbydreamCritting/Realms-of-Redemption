@@ -1,0 +1,20 @@
+{
+  "name": "Mutant Neon Resident",
+  "icon": "ror:neon_skull",
+  "category": "ror:mobs",
+  "sortnum": 12,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "ror:mutant_neon_resident",
+      "scale": 1,
+      "name": "Mutant Neon Resident",
+      "offset": 0.4
+    },
+	{
+      "type": "text",
+      "text": "Health: 140, Damage: 7, notable drops: Neon Skull, Neon Prism (50%), Hat (2%), found rarely in the Neon City."
+    }
+  ]
+}
