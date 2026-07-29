@@ -1,4 +1,3 @@
-
 package com.dreamcritting.ror.init;
 
 import net.neoforged.neoforge.registries.DeferredRegister;
