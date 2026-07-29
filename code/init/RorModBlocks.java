@@ -1,6 +1,3 @@
-/*
- *    MCreator note: This file will be REGENERATED on each build.
- */
 package com.dreamcritting.ror.init;
 
 import com.dreamcritting.ror.block.StemBlock;
@@ -95,7 +92,6 @@ public class RorModBlocks {
 	public static final DeferredBlock<Block> CYBERLAND_PORTAL = REGISTRY.register("cyberland_portal", CyberlandPortalBlock::new);
 	public static final DeferredBlock<Block> CYBERLAND_RIBBED_PLANT = REGISTRY.register("cyberland_ribbed_plant", FlammablePlantBlock::new);
 	public static final DeferredBlock<Block> DAFFODILIUM_BLOCK = REGISTRY.register("daffodilium_block", () -> new Block(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.METAL).strength(6f, 3f).requiresCorrectToolForDrops().mapColor(MapColor.COLOR_YELLOW)));
-	;
 	public static final DeferredBlock<Block> DAFFODILIUM_ORE = REGISTRY.register("daffodilium_ore", () -> new Block(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(6f, 3f).requiresCorrectToolForDrops().mapColor(MapColor.DEEPSLATE)));
 	public static final DeferredBlock<Block> DANDELION_PARACHUTE = REGISTRY.register("dandelion_parachute", () -> new FlowerBlock(MobEffects.SLOW_FALLING, 80, BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY)));
 	public static final DeferredBlock<Block> DARK_AGATE = REGISTRY.register("dark_agate", () -> new Block(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(3f).mapColor(MapColor.CRIMSON_STEM)));
