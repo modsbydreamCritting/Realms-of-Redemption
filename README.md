@@ -7,8 +7,3 @@ Most assets are not included in this repository, only code, since there are some
 Any contributions to this code which are accepted will be credited in the mod description (please let me know if I forget to add credit)
 
 Lastly do be aware I am not a professional coder and I genuinely can't remember why some things here are coded the way they are so try not be mean if I've done anything strange. I reserve the right to code things in whatever bizarre way I want on the occasion when I forget how to do things properly. Unless it crashes, then you can complain and/or throw things in my general direction.
-
-# Licencing
-
-All Rights Reserved. Consent is explicitly revoked for any part of my intellectual property to be included in any machine learning/artificial intelligence dataset or large language model. Contact me if you have any questions about licensing or would like to re-use any of my assets/code.
-
